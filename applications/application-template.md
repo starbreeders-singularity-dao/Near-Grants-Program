@@ -4,10 +4,10 @@
 >
 > See the [Grants Program Process](https://github.com/Mintbase/Grants-Program/#pencil-process) on how to submit a proposal.
 
-- **Project Name:** Name of your project (e.g. DuoSwap Module)
-- **Team Name:** Legal name of your team (e.g. Duo)
-- **Payment Address:** A NEAR account to where funds can be transfered (e.g. myproject.near)
-- **[Level](../README.md#level_slider-levels):** 1, 2 or 3
+- **Project Name:** Beamit.Space
+- **Team Name:** Starbreeder Labs
+- **Payment Address:** starbreeders.near
+- **[Level](../README.md#level_slider-levels):** 1
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
@@ -21,22 +21,49 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 Please provide the following:
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
+**- If the name of your project is not descriptive, a tag line (one sentence summary).**
+
+Beamit.space is an app located right at the nexus of 4 trends in decentralized technology: The open Metaverse, Artificial Intelligence, Digital Identity and interchain. Breaking the barriers of siloing of open metaverse worlds, beamit.space with the help of cutting edge AI modelsmakes it easy for users and projects to create and send 3D avatars into any possible digital realm, lowering the cost of creation and deployment by 10x, and decreasing time of creation by a 100x.
+
+Making use of cutting edge AI and machine learning models, beamit.space will enable anyone to convert PFP, NFTs, ordinals or eleven real life images to metaverse ready, controllable 3D avatars. Optimizing these models for any metaverse world, using beamit.space is a game changer in the realization of consistent digital identities across the open metaverse, lowering the barries, acting as a transforming beam into any meta-realm.
+
+Further,by providing proof of provenance, beamit.space also helps maintaining the value of NFTs, contributing to the maintenance of the digital identity for the holder and user.
+
 - An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
+
+Our project introduces a groundbreaking ai-enabled 3D avatar minting platform, designed to seamlessly integrate into and enrich the Mintbase/NEAR ecosystem. Leveraging NEAR's high-performance blockchain, our platform ensures an eco-friendly, cost-effective, and user-centric minting experience. By partnering with Mintbase, we enable our users to mint, trade, and explore 3D avatars in a vibrant NFT marketplace, fostering a new level of engagement and digital identity expression.
+
+Our initiative aims to attract a diverse community, from virtual reality enthusiasts to digital artists, expanding the NEAR ecosystem's reach and utility. The introduction of customizable, high-fidelity ai-generated interchain 3D avatars opens up novel avenues for digital interaction and ownership, setting a new standard for 3D NFT utility. Users will be able to mint 3D Avatars from their PFP/NFTs they hold on any chain, and mint on NEAR. They also will be able to mint 3D Avatars generated from NFTS on Near to any other blockchain we integrated. therefore we are loweing the barriers of interacting with NEAR, and attracting new users to NEar, and extending utilit for Near NFTS generally.
+
 - An indication of why your team is interested in creating this project.
+
+Our team is passionate about bringing cutting edge AI to the open metaverse. Driving mass adoption by increasing utility of any NFT PFP collection is our contribution to this exciting industry.
 
 ### Project Details
 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-- Mockups/designs of any UI components
 - Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
+Please check this visualisation: https://drive.google.com/file/d/1w6pC2u0ZUQvCqXpYqA19MYRYLUF07NZB/view?usp=sharing
+
+- overview of the technology stack to be used
+For the creation of 3D Avatars, Beamit.Space is using various AI models based on the open source machine learning framework Pytorch. Related to NFTs and smart contracts, the team is using coinweb protocol to build an interoperable decentralized application that allows deployment on multiple blockchains and L2, as well as integration with the requirements of various open metaverse projects. 
+
 - Documentation of core components, protocols, architecture, etc. to be deployed
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+https://dreamgaussian.github.io/
+https://github.com/zhan-xu/RigNet#training
+https://github.com/Jishnu-jithu/blender-cloud-addon
+https://pytorch.org/docs/stable/index.html
+https://docs.mintbase.xyz/dev/getting-started
+  
 - PoC/MVP or other relevant prior work or research on the topic
+Please check this video of prototype renderings: https://drive.google.com/file/d/1vrLC33OtmXYmKv_w6jz5IoXHchgb9AVi/view?usp=sharing
+For a guided prototype demo please make an appointment:
+https://docs.google.com/forms/d/1s_OKR2EaG8e-nErTl8lmXxGF6sCH32CzK0nvOPMIvFg/viewform?edit_requested=true#response=ACYDBNjcyh30AAMFxxxhJ0NZulCZ9oyna5Ns1g3uQfKIJZbmKW7_NAVAjN8iG93PGZqmEGM
+
 - What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+  - not (yet) an NFT marketplace!
+
 
 ### Ecosystem Fit
 
